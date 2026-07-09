@@ -1,8 +1,8 @@
 const heroImage =
-  "https://images.pexels.com/photos/32092180/pexels-photo-32092180.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1800";
+  "/images/cyber.png";
 
 const portraitImage =
-  "https://images.pexels.com/photos/1294362/pexels-photo-1294362.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1100&w=850";
+  "/images/cybely.png";
 
 const photography = [
   {
@@ -394,7 +394,7 @@ export default function App() {
           </div>
           <div className="reveal-up delay-1 overflow-hidden">
             <img
-              src="https://images.pexels.com/photos/16274226/pexels-photo-16274226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=850"
+              src="/images/pf1.jpg"
               alt="Scene de vie au Benin pour illustrer le Programme FUTUR"
               className="min-h-[560px] w-full object-cover"
             />
